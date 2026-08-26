@@ -1,0 +1,5 @@
+[user]
+	name = Bob Sullivan
+	email = robertemmettsullivan@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
